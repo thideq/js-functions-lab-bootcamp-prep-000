@@ -1,10 +1,10 @@
 // write your code below!
-happyHolidays() {
+function happyHolidays() {
   return `happyHolidays!`
 }
-happyHolidaysTo(name) {
+function happyHolidaysTo(name) {
   return `happy Holidays, ${name}!`
 }
-happyHolidayTo(holiday, name) {
+function happyHolidayTo(holiday, name) {
   return `happy ${Holidays}, ${name}!`
 }
